@@ -1,4 +1,3 @@
-
 var x=document.querySelector(".history");
 var data;
 var dataH=document.querySelector("#resultH");
